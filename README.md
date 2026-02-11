@@ -5,6 +5,20 @@ A cutting-edge AI project that uses **speech recognition and machine learning** 
 This repository combines speech preprocessing, feature extraction, and predictive modeling to build a non-invasive system for detecting cognitive decline from speech patterns — empowering early diagnosis with modern AI techniques.
 
 ---
+## 🧠 About the Project
+
+Alzheimer Detection Using Speech Recognition is an AI-driven system designed to identify early signs of Alzheimer’s disease through voice analysis.
+
+The project leverages speech recognition, natural language processing (NLP), and machine learning techniques to analyze linguistic and acoustic features such as pauses, fluency, pronunciation patterns, and semantic structure.
+
+By detecting subtle speech abnormalities associated with cognitive decline, this system aims to provide a non-invasive, cost-effective, and accessible tool to support early diagnosis and medical research.
+
+This project demonstrates the intersection of:
+- Artificial Intelligence
+- Healthcare Technology
+- Speech Processing
+- Cognitive Analysis
+---
 
 ## 🚀 Project Overview
 
@@ -48,3 +62,4 @@ Alzimer_detection_using_speech_recognation/
 │
 ├── README.md # Project documentation
 └── .gitignore # Ignored files
+
