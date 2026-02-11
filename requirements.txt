@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+tensorflow
+librosa
+numpy
+scikit-learn
+matplotlib
+seaborn
+sqlalchemy
+passlib[bcrypt]
+pyjwt
+python-multipart
+soundfile

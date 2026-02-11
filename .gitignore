@@ -1,0 +1,21 @@
+# Python junk
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Database
+users.db
+
+# Data & Large Files
+data/
+uploads/
+plots/
+
+# Frontend junk
+node_modules/
+dist/
+.DS_Store
+
+# IDE settings
+.vscode/

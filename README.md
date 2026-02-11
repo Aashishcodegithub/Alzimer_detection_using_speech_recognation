@@ -1,1 +1,0 @@
-#AlzDetect-SpeechAI
