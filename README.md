@@ -1,0 +1,1 @@
+# Alzimer_detection_using_speech_recognation
