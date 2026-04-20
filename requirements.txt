@@ -1,4 +1,4 @@
-fastap
+fastapi
 uvicorn
 tensorflow
 librosa
